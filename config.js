@@ -1,9 +1,9 @@
 const CONFIG = {
   couple: {
-    name1: "NORRY NOVIANTI",
-    name2: "ARSYADI RAMDHAN",
+    name1: "ARSYADI RAMDHAN",
+    name2: "NORRY NOVIANTI", 
     connector: "dan",
-    together: "relationship"
+    together: ""
   },
   memorialDate: "2025-05-06T00:00:00",
   letter: {
@@ -12,7 +12,7 @@ const CONFIG = {
       "Duduk di depan rumah mengirim pesan untukmu,",
       "Lampu redup kekuningan, hujan dan angin di luar jendela,",
       "Butuh waktu lama hanya untuk merangkai satu kalimat bahwa aku merindukanmu,",
-      "Padang liar di dalam hati,",
+      "Tulus niatku saat ini,",
       "Kadang seperti meteor mengejar bulan, kadang seperti ribuan kuda berlari."
     ],
     paragraph2: [
@@ -34,7 +34,7 @@ const CONFIG = {
     day: "Hari",
     hour: ":",
     minute: ":",
-    second: ":"
+    second: ""
   },
-  seedText: "For You"
+  seedText: "FOR YOU"
 };
