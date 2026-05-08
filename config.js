@@ -1,6 +1,6 @@
 const CONFIG = {
   couple: {
-    name1: "NORRYNOVIANTI",
+    name1: "NORRY NOVIANTI",
     name2: "ARSYADI RAMDHAN",
     connector: "Dan",
     together: "SELAMANYA"
