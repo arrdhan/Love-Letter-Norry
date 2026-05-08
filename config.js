@@ -1,40 +1,40 @@
 const CONFIG = {
   couple: {
-    name1: "Ms.Wang",
-    name2: "Mr.Qi",
-    connector: "和",
-    together: "在一起"
+    name1: "Norry Novianti",
+    name2: "ARSYADI RAMDHAN",
+    connector: "Dan",
+    together: "Selamanya"
   },
-  memorialDate: "2017-12-25T00:00:00",
+  memorialDate: "2025-05-06T00:00:00",
   letter: {
     paragraph1: [
-      "哪天我老了，还跟和你热恋一样，",
-      "桌前给你发消息，",
-      "灯盏微黄，窗外风雨千墙，",
-      "半天酿出一句我想你了，",
-      "内心的原野，",
-      "时而流星追月，时而万马奔腾。"
+      "Suatu hari ketika aku tua nanti, aku masih mencintaimu seperti saat ini,",
+      "Duduk di depan rumah mengirim pesan untukmu,",
+      "Lampu redup kekuningan, hujan dan angin di luar jendela,",
+      "Butuh waktu lama hanya untuk merangkai satu kalimat bahwa aku merindukanmu,",
+      "Padang liar di dalam hati,",
+      "Kadang seperti meteor mengejar bulan, kadang seperti ribuan kuda berlari."
     ],
     paragraph2: [
-      "有时有月亮，",
-      "我就做一个九曲十八弯的梦，",
-      "每个转角都与你有关，",
-      "你对我笑了一下，",
-      "醒来我就发上一天呆。"
+      "Kadang ada sendu,",
+      "Aku pun membuat mimpi yang berliku-liku,",
+      "Setiap tikungannya selalu berkaitan denganmu,",
+      "Kamu tersenyum padaku,",
+      "Dan saat terbangun aku tersenyum sepanjang hari."
     ],
     paragraph3: [
-      "现在我在长满星星的夜里，",
-      "阶前红豆坠满枝，",
-      "醉过知酒浓，",
-      "无物抵相思。"
+      "Sekarang aku berada di malam yang dipenuhi bintang,",
+      "Air hujan bercucuran memenuhi mobil di depan rumah,",
+      "Baru setelah ini aku tau",
+      "Tak ada yang mampu menandingi rasa rindu."
     ]
   },
   time: {
-    prefix: "第 ",
-    day: "天",
-    hour: "小时",
-    minute: "分钟",
-    second: "秒"
+    prefix: "368",
+    day: "Sabtu",
+    hour: "00:00",
+    minute: "00",
+    second: "00"
   },
-  seedText: "Miss You"
+  seedText: "Love You"
 };
