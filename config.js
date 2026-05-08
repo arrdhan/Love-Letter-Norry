@@ -2,8 +2,8 @@ const CONFIG = {
   couple: {
     name1: "NORRY NOVIANTI",
     name2: "ARSYADI RAMDHAN",
-    connector: "Dan",
-    together: "SELAMANYA"
+    connector: "dan",
+    together: "relationship"
   },
   memorialDate: "2025-05-06T00:00:00",
   letter: {
@@ -31,10 +31,10 @@ const CONFIG = {
   },
   time: {
     prefix: "Total",
-    day: "hari",
-    hour: "00:00",
-    minute: "00",
-    second: "00"
+    day: "Hari",
+    hour: ":",
+    minute: ":",
+    second: ":"
   },
-  seedText: "Love You"
+  seedText: "For You"
 };
